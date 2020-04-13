@@ -1,0 +1,37 @@
+{
+    "courses" : [
+        {
+            "id": 1,
+            "title": "React desde cero 2019",
+            "imageCourse": "https://edteam-media.s3.amazonaws.com/courses/original/5eaaec0b-fa78-4f48-94b6-61b757e1f5fa.png",
+            "imageProfessor": "https://edteam-media.s3.amazonaws.com/users/avatar/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg",
+            "linkCourse": "https://ed.team/cursos/react",
+            "nameProfessor": "Beto Quiroga",
+            "price": "50 USD"
+        }, {
+            "id": 2,
+            "title": "Markdown desde cero",
+            "imageCourse": "https://edteam-media.s3.amazonaws.com/courses/original/2c2c7a26-3dc2-4d61-a165-7b9de73420ce.png",
+            "imageProfessor": "https://edteam-media.s3.amazonaws.com/users/avatar/f2db2437-1baf-481d-9f3a-04ba848008a7.jpg",
+            "linkCourse": "https://ed.team/cursos/markdown",
+            "nameProfessor": "Alvaro Felipe",
+            "price": "Gratis"
+        }, {
+            "id": 3,
+            "title": "GIT desde cero 2019",
+            "imageCourse": "https://edteam-media.s3.amazonaws.com/courses/original/bbf9707a-d2e8-441e-ab4b-756bf3bb527a.png",
+            "imageProfessor": "https://edteam-media.s3.amazonaws.com/users/avatar/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg",
+            "linkCourse": "https://ed.team/cursos/git",
+            "nameProfessor": "Beto Quiroga",
+            "price": "20 USD"
+        }, {
+            "id": 4,
+            "title": "HTML5 desde cero 2019",
+            "imageCourse": "https://edteam-media.s3.amazonaws.com/courses/original/f1fa315c-d94a-4fba-b408-cc852a2f4e41.jpg",
+            "imageProfessor": "https://edteam-media.s3.amazonaws.com/users/avatar/f2db2437-1baf-481d-9f3a-04ba848008a7.jpg",
+            "linkCourse": "https://ed.team/cursos/html",
+            "nameProfessor": "Alvaro Felipe",
+            "price": "Gratis"
+        }
+    ]
+}
